@@ -1,7 +1,33 @@
-cacheUrl: https://daorren.github.io/osmofeed/cache.json
+cacheUrl: https://luizfelipegusmao.github.io/osmofeed/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://labnotes.org/rss/
-  - href: https://www.stefanjudis.com/rss.xml
-  - href: https://mteam88.github.io/rss.xml
-  - href: https://www.libevm.com/atom.xml
+  - href: https://rss.sciencedirect.com/publication/science/25300644
+  - href: https://www.cambridge.org/core/journals/environmental-conservation/latest-issue
+  - href: https://academic.oup.com/rss/site_5272/3138.xml
+  - href: https://www.cambridge.org/core/journals/bird-conservation-international/latest-issue
+  - href: https://www.jswconline.org/rss/current.xml
+  - href: https://rss.sciencedirect.com/publication/science/09213449
+  - href: https://www.watconman.org/feed/
+  - href: https://onlinelibrary.wiley.com/feed/10990755/most-recent
+  - href: https://onlinelibrary.wiley.com/feed/27709329/most-recent
+  - href: https://conbio.onlinelibrary.wiley.com/feed/15231739/most-recent
+  - href: https://rss.sciencedirect.com/publication/science/00063207
+  - href: https://conbio.onlinelibrary.wiley.com/feed/1755263x/most-recent
+  - href: https://onlinelibrary.wiley.com/feed/10990755/most-recent
+  - href: https://rss.sciencedirect.com/publication/science/16171381
+  - href: https://rss.sciencedirect.com/publication/science/23519894
+  - href: https://resjournals.onlinelibrary.wiley.com/feed/17524598/most-recent
+  - href: https://www.publish.csiro.au/RSS_Feed/CSIRO_Publishing_Recent_PC.xml
+  - href: https://www.tandfonline.com/feed/rss/ysic20
+  - href: https://link.springer.com/search.rss?facet-content-type=Journal&query=conservation&facet-sub-discipline=%22Nature+Conservation%22
+  - href: https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=trca&type=etoc&feed=rss
+  - href: https://onlinelibrary.wiley.com/action/showFeed?jc=14691795&type=etoc&feed=rss
+  - href: https://onlinelibrary.wiley.com/action/showFeed?jc=20563485&type=etoc&feed=rss
+  - href: https://www.ace-eco.org/rss/
+  - href: https://www.tandfonline.com/feed/rss/yjac20
+  - href: https://conbio.onlinelibrary.wiley.com/feed/25784854/most-recent
+  - href: https://ijcs.ro/feed/
+  - href: https://parksjournal.com/feed/
+  - href: http://www.ethnobioconservation.com/index.php/ebc/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2
+  - href: https://www.tandfonline.com/feed/rss/rcon20
+  - href: https://www.ecos.org.uk/feed/
+siteTitle: ConservationFeeds
